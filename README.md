@@ -1,3 +1,7 @@
+# example code for Sep-24 using stellar typescript-wallet-sdk
+
+The sdk can be found (here)[https://github.com/stellar/typescript-wallet-sdk].
+
 To view how the wallet-sdk can be used to create sep-24 deposits and withdrawals look at `deposit.js` and `withdraw.js`.
 
 To see them in action you can run below:
